@@ -33,8 +33,11 @@ Para rodar este projeto localmente, basta seguir os passos abaixo. Não é neces
 3.  **Abra o arquivo `index.html`** no seu navegador de preferência.
 
 ## 🖼️ Preview
+<div align= "center">
+  <img src="assets/GravaodeTela2025-08-18200944-ezgif.com-video-to-gif-converter.gif" alt="Demonstração do projeto Pokedex">
+</div>
 
-![GravaodeTela2025-08-18200944-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1de54aa8-9d42-44e4-a761-67de707d6079)
+
 
 
 ## 🤝 Contribuição
